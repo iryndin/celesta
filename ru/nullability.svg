@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Syntax-Trax http://kevinpt.github.io/syntax-trax -->
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xml:space="preserve"
+width="284" height="92" version="1.1">
+<style type="text/css">
+<![CDATA[
+.box_font {fill:#000000; text-anchor:middle;
+    font-family:Times; font-size:14pt; font-weight:regular; font-style:normal;}
+.literal_font {fill:#000000; text-anchor:middle;
+    font-family:Times; font-size:14pt; font-weight:regular; font-style:normal;}
+.title_font {fill:#000000; text-anchor:middle;
+    font-family:Sans; font-size:22pt; font-weight:bold; font-style:normal;}
+.bubble_font {fill:#000000; text-anchor:middle;
+    font-family:Sans; font-size:14pt; font-weight:regular; font-style:normal;}
+.token_font {fill:#000000; text-anchor:middle;
+    font-family:Sans; font-size:16pt; font-weight:regular; font-style:normal;}
+.label {fill:#000;
+  text-anchor:middle;
+  font-size:16pt; font-weight:bold; font-family:Sans;}
+.link {fill: #0D47A1;}
+.link:hover {fill: #0D47A1; text-decoration:underline;}
+.link:visited {fill: #4A148C;}
+]]>
+</style>
+<defs>
+  <marker id="arrow" markerWidth="5" markerHeight="4" refX="2.5" refY="2" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0.5,2 L0,4 L4.5,2 z" fill="#000000" />
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="white"/><path d="M83.0,77.0 A13.0,13.0 0 0,1 83.0,51.0 H118.0 A13.0,13.0 0 0,1 118.0,77.0 z" stroke="none" fill-opacity="0.498039215686" fill="#000000"/>
+<path d="M181.0,77.0 A13.0,13.0 0 0,1 181.0,51.0 H225.0 A13.0,13.0 0 0,1 225.0,77.0 z" stroke="none" fill-opacity="0.498039215686" fill="#000000"/>
+<circle cx="10" cy="60.0" r="3" stroke="#000000" stroke-width="2" fill="#FFFFFF"/>
+<path d="M80.0,74.0 A13.0,13.0 0 0,1 80.0,48.0 H115.0 A13.0,13.0 0 0,1 115.0,74.0 z" stroke="#000000" stroke-width="2" fill="#FFFFFF"/>
+<text class="bubble_font" x="97.5" y="67.0">NOT</text>
+<line x1="96.0" y1="80.0" x2="97.0" y2="80.0" stroke="#000000" stroke-width="2" />
+<line x1="48.0" y1="60.0" x2="66.0" y2="60.0" stroke="#000000" stroke-width="2" />
+<line x1="129.0" y1="60.0" x2="148.0" y2="60.0" stroke="#000000" stroke-width="2" />
+<path d="M57.0,69.0 A9.0,9.0 0 0,0 48.0,60.0" stroke="#000000" stroke-width="2" fill="none"/>
+<line x1="66.0" y1="80.0" x2="92.0" y2="80.0" stroke="#000000" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="97.0" y1="80.0" x2="129.0" y2="80.0" stroke="#000000" stroke-width="2" />
+<path d="M57.0,71.0 A9.0,9.0 0 0,0 66.0,80.0" stroke="#000000" stroke-width="2" fill="none"/>
+<path d="M129.0,80.0 A9.0,9.0 0 0,0 138.0,71.0" stroke="#000000" stroke-width="2" fill="none"/>
+<path d="M147.0,60.0 A9.0,9.0 0 0,0 138.0,69.0" stroke="#000000" stroke-width="2" fill="none"/>
+<line x1="57.0" y1="71.0" x2="57.0" y2="69.0" stroke="#000000" stroke-width="2" />
+<line x1="138.0" y1="71.0" x2="138.0" y2="69.0" stroke="#000000" stroke-width="2" />
+<path d="M178.0,74.0 A13.0,13.0 0 0,1 178.0,48.0 H222.0 A13.0,13.0 0 0,1 222.0,74.0 z" stroke="#000000" stroke-width="2" fill="#FFFFFF"/>
+<text class="bubble_font" x="200.0" y="67.0">NULL</text>
+<line x1="146.0" y1="60.0" x2="160.0" y2="60.0" stroke="#000000" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="141.0" y1="86.0" x2="142.0" y2="86.0" stroke="#000000" stroke-width="2" />
+<line x1="30" y1="60.0" x2="48.0" y2="60.0" stroke="#000000" stroke-width="2" />
+<line x1="236.0" y1="60.0" x2="256.0" y2="60.0" stroke="#000000" stroke-width="2" />
+<path d="M39.0,69.0 A9,9 0 0,0 30.0,60.0" stroke="#000000" stroke-width="2" fill="none"/>
+<line x1="48" y1="86.0" x2="137.0" y2="86.0" stroke="#000000" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="142.0" y1="86.0" x2="237.0" y2="86.0" stroke="#000000" stroke-width="2" />
+<path d="M39.0,77.0 A9,9 0 0,0 48.0,86.0" stroke="#000000" stroke-width="2" fill="none"/>
+<path d="M237.0,86.0 A9.0,9.0 0 0,0 246.0,77.0" stroke="#000000" stroke-width="2" fill="none"/>
+<path d="M255.0,60.0 A9.0,9.0 0 0,0 246.0,69.0" stroke="#000000" stroke-width="2" fill="none"/>
+<line x1="39" y1="77.0" x2="39" y2="69.0" stroke="#000000" stroke-width="2" />
+<line x1="246.0" y1="77.0" x2="246.0" y2="69.0" stroke="#000000" stroke-width="2" />
+<line x1="12" y1="60.0" x2="26.0" y2="60.0" stroke="#000000" stroke-width="2" marker-end="url(#arrow)" />
+<circle cx="275.0" cy="60.0" r="3.0" stroke="#000000" stroke-width="2" fill="#FFFFFF"/>
+<line x1="254.0" y1="60.0" x2="268.0" y2="60.0" stroke="#000000" stroke-width="2" marker-end="url(#arrow)" />
+<text class="title_font" x="89.0" y="30.0">nullability</text>
+</svg>
